@@ -14,7 +14,7 @@ Hey there! I'm **Rana Nasser**, a passionate **Computer Science student** at Ain
 
 ---
 
-## 💻 Programming Languages I Speak:
+## 💻 Programming Languages I Write:
 - **C++**: My go-to for performance-critical applications.
 - **C#**: For object-oriented design and Windows development.
 - **Java**: Crafting scalable, efficient software solutions.
@@ -40,6 +40,6 @@ Hey there! I'm **Rana Nasser**, a passionate **Computer Science student** at Ain
 
 ## 🌐 Let's Connect:
 - **LinkedIn**: [My LinkedIn Profile]( https://www.linkedin.com/in/rana-nasser-7b2375291 )
-- **Email**: [MyEmail.gmail](mailto:rananasser760@gmail.com)
+- **Email**: [MyEmail.gmail Account](mailto:rananasser760@gmail.com)
 
 
