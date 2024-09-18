@@ -40,6 +40,6 @@ Hey there! I'm **Rana Nasser**, a passionate **Computer Science student** at Ain
 
 ## 🌐 Let's Connect:
 - **LinkedIn**: [My LinkedIn Profile]( https://www.linkedin.com/in/rana-nasser-7b2375291 )
-- **Email**: [MyEmail@gmail.com](rananasser760@gmail.com)
+- **Email**: [MyEmail.gmail](mailto:rananasser760@gmail.com)
 
 
