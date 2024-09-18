@@ -1,7 +1,7 @@
 # 👨‍💻 Welcome to My World! 🌍
 
 ## Who am I? 🤔
-Hey there! I'm **[Rana Nasser]**, a passionate **Computer Science student** at Ain Shams University (ASU) with a love for data, algorithms, and creating innovative solutions. 🚀
+Hey there! I'm **Rana Nasser**, a passionate **Computer Science student** at Ain Shams University (ASU) with a love for data, algorithms, and creating innovative solutions. 🚀
 
 ---
 
@@ -39,7 +39,7 @@ Hey there! I'm **[Rana Nasser]**, a passionate **Computer Science student** at A
 ---
 
 ## 🌐 Let's Connect:
-- **LinkedIn**: [Your LinkedIn Profile]( https://www.linkedin.com/in/rana-nasser-7b2375291 )
-- **Email**: [YourEmail@gmail.com](rananasser760@gmail.com)
+- **LinkedIn**: [My LinkedIn Profile]( https://www.linkedin.com/in/rana-nasser-7b2375291 )
+- **Email**: [MyEmail@gmail.com](rananasser760@gmail.com)
 
 
