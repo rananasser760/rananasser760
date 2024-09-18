@@ -29,12 +29,12 @@ Hey there! I'm **[Rana Nasser]**, a passionate **Computer Science student** at A
 ---
 
 ## 📊 My GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?rananasser760=rananasser760&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rananasser760&show_icons=true&theme=radical)
 
 ---
 
 ## 🏆 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?rananasser760=rananasser760&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rananasser760&layout=compact&theme=radical)
 
 ---
 
