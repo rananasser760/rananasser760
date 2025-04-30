@@ -29,7 +29,7 @@ Hey there! I'm **Rana Nasser**, a passionate **Computer Science student** at Ain
 ---
 
 ## 📊 My GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rananasser760&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rananasser760&show_icons=true&theme=radical)
 
 ---
 
