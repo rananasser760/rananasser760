@@ -1,46 +1,57 @@
-# 👨‍💻 Welcome to My World! 🌍
+# 👋 Hi, I'm Rana Nasser! 🌟
 
-## Who am I? 🤔
-Hey there! I'm **Rana Nasser**, a passionate **Computer Science student** at Ain Shams University (ASU) with a love for data, algorithms, and creating innovative solutions. 🚀
+Welcome to my GitHub world! I'm a **Computer Science student** at Ain Shams University with a passion for **AI, Machine Learning, and Web Development**. 🚀
 
 ---
 
 ## 🧠 What I Excel At:
-- **Machine Learning**: Crafting intelligent systems that learn from data.
-- **Deep Learning & Neural Networks**: Building models that simulate the brain's neurons to solve complex tasks.
-- **Statistics & Calculus**: Using mathematical concepts to drive data analysis and AI solutions.
-- **Linear Algebra**: The foundation of many AI and image processing techniques.
-- **Image Processing**: Turning pixels into insights using machine learning and AI.
+<div>
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-4B0082?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-00CED1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Linear_Algebra-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Image_Processing-32CD32?style=for-the-badge" />
+</div>
 
 ---
 
-## 💻 Programming Languages I Write:
-- **C++**: My go-to for performance-critical applications.
-- **C#**: For object-oriented design and Windows development.
-- **Java**: Crafting scalable, efficient software solutions.
-- **Python**: The powerhouse for machine learning, AI, and data science.
+## 💻 Programming Languages:
+<div>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
 ---
 
-## 💡 What I've Worked On:
-- **HTML, CSS, JavaScript, Bootstrap**: Front-end web development and creating dynamic, user-friendly web experiences.
-- **Machine Learning Projects**: Predictive models, classifiers, and real-world applications.
+## 🌐 Web & Projects
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap  
+- **Machine Learning Projects:** Predictive models, classifiers, AI applications  
+- **Portfolio:** [Click Here to Explore](https://rana-nasser-mohamed-38ik.bolt.host/)
 
 ---
 
-## 📊 My GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=rananasser760&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+![Rana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rananasser760&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rananasser760&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=rananasser760&theme=radical)
 
 ---
 
-## 🏆 Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rananasser760&layout=compact&theme=radical)
+## 🌐 Let's Connect
+<div>
+  <a href="https://www.linkedin.com/in/rana-nasser-7b2375291">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rananasser760@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://rana-nasser-mohamed-38ik.bolt.host/">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=website&logoColor=white"/>
+  </a>
+</div>
 
 ---
-## 🌐 My Portfolio:
-- **Link**: [My Portfolio Link]( https://rana-nasser-mohamed-38ik.bolt.host/ )
----
-## 🌐 Let's Connect:
-- **LinkedIn**: [My LinkedIn Profile]( https://www.linkedin.com/in/rana-nasser-7b2375291 )
-- **Email**: [MyEmail.gmail Account](mailto:rananasser760@gmail.com)
 
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
