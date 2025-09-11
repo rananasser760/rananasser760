@@ -61,7 +61,7 @@ I love solving problems with data, building smart systems, and creating user-fri
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rana-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rana-nasser-7b2375291)  
 [![Gmail](https://img.shields.io/badge/Email-rananasser760@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rananasser760@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=google-chrome)](https://rananasser760.github.io/Portfolio/index.html/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=google-chrome)](https://rananasser760.github.io/Portfolio/index.html)  
 
 ---
 
