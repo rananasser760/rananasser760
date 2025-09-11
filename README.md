@@ -57,6 +57,16 @@ I love solving problems with data, building smart systems, and creating user-fri
 
 ---
 
+## 🐍 GitHub Snake Game  
+![snake gif](https://github.com/rananasser760/rananasser760/blob/output/github-contribution-grid-snake.svg)  
+
+---
+
+## 💬 Random Dev Quote  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+---
+
 ## 🌍 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rana-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rana-nasser-7b2375291)  
