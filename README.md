@@ -52,13 +52,16 @@ I love solving problems with data, building smart systems, and creating user-fri
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rananasser760&theme=radical)  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=rananasser760&theme=radical&no-frame=true&row=1&column=6)  
 
+### 📈 Contribution Graph  
+![Rana's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rananasser760&theme=radical)  
+
 ---
 
 ## 🌍 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rana-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rana-nasser-7b2375291)  
 [![Gmail](https://img.shields.io/badge/Email-rananasser760@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rananasser760@gmail.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=google-chrome)](https://sparkling-manatee-cd273e.netlify.app/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen?style=for-the-badge&logo=google-chrome)](https://rananasser760.github.io/Portfolio/index.html/)  
 
 ---
 
