@@ -41,7 +41,7 @@ I love solving problems with data, building smart systems, and creating user-fri
 🔹 [**AI Guest Satisfaction Predictor**](#) – ML model predicting customer experience  
 🔹 [**IoT Smart Sensors**](#) – IoT project integrating hardware & cloud  
 
-👉 *More projects on my [Portfolio Website](https://relaxed-malasada-c07933.netlify.app/)*  
+👉 *More projects on my [Portfolio Website](https://rananasser760.github.io/Portfolio/resume.html)*  
 
 ---
 
