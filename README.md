@@ -18,8 +18,8 @@ I love solving problems with data, building smart systems, and creating user-fri
 ## 🧠 Core Skills  
 
 ### 🤖 AI & Data Science  
-- Machine Learning | Deep Learning | Neural Networks  
-- Computer Vision | Image Processing | NLP  
+- Machine Learning (ML) | Deep Learning (DL) | Image Processing (IP)  
+- Computer Vision (CV) | Natural Language Processing (NLP) | Generative AI
 - Statistics, Calculus, Linear Algebra  
 
 ### 💻 Programming Languages  
