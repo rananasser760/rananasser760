@@ -9,7 +9,7 @@ Hi, I'm **Rana Nasser** – a **Computer Science student at Ain Shams University
 I love solving problems with data, building smart systems, and creating user-friendly applications.  
 
 - 🎓 Currently studying CS @ ASU  
-- 💡 Exploring **Deep Learning, NLP, and Computer Vision**  
+- 💡 Exploring **Deep Learning, NLP, Computer Vision, and Gen AI**  
 - 🌱 Learning more about **Cloud Computing & Big Data**  
 - ⚡ Fun fact: I can explain AI concepts with memes 😆  
 
